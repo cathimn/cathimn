@@ -1,4 +1,7 @@
-### Hi there 👋
+### hello! cath is my name, and coding is my game! ✨ 
+a full-stack software engineer versed in JavaScript and Python
+
+[my portfolio](https://cathimn.github.io) ✨
 
 <!--
 **cathimn/cathimn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
