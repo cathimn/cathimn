@@ -1,9 +1,11 @@
 ### hello! cath is my name, and coding is my game! ✨ 
 a full-stack software engineer working with JavaScript and Python
-(currently learning TypeScript and GraphQL)
 
 [my portfolio](https://cathimn.github.io) ✨
 
+
+- 🔭 I’m currently working on ... personal project with puppies (and websockets)
+- 🌱 I’m currently learning ... TypeScript & GraphQL
 <!--
 **cathimn/cathimn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
