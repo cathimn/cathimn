@@ -1,6 +1,5 @@
 ### hello! cath is my name, and coding is my game! ✨ 
 a full-stack software engineer working with JavaScript and Python
-
 (currently learning TypeScript and GraphQL)
 
 [my portfolio](https://cathimn.github.io) ✨
