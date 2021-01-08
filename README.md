@@ -1,14 +1,8 @@
 ### hello! cath is my name, and coding is my game! ✨ 
 a full-stack software engineer working with JavaScript and Python
 
-👩🏻‍💻 currently working on...
-
-puppy themed app with websockets 🐕
-
-
-👩🏻‍🏫 currently learning...
-
-TypeScript, GraphQL
+👩🏻‍💻 currently working on... a puppy themed app with websockets 🐕
+👩🏻‍🏫 currently learning... TypeScript, GraphQL
 
 [my portfolio](https://cathimn.github.io) ✨
 
