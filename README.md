@@ -1,5 +1,7 @@
+<!--
 ### Cath is my name, and coding is my game!
 Full-stack software engineer versed in JavaScript & Python
+-->
 
 ✨ [Portfolio](https://cathimn.github.io)
 
